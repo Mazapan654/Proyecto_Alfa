@@ -1,5 +1,6 @@
-##Estas son las utileriaspara el programa
-from tkinter import *
+##Estas son las utileriaspara el odfmgmgom
+
+pérkophk,rpt,hmk, 7kl
 from tkinter import messagebox
 from tkinter import ttk
 import tkinter as tk
